@@ -57,4 +57,4 @@ async def clear(ctx, ilosc=1000):
     await ctx.send("pomyślnie usunięto")
     
 
-client.run("OTUzNzY1Nzc5MDkyOTQyODQ4.YjJVmQ.P-niliswu7hJN8FTWKLz9tc1Rkk")
+client.run("OTUzNzY1Nzc5MDkyOTQyODQ4.YjJVmQ.Uewhzvpr9ekKi33et3UrLqQwE7k")
